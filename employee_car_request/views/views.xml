@@ -1,0 +1,13 @@
+<odoo>
+  <data>
+    <record id="view_car_request" model="ir.ui.view">
+      <fields name="name">view.car.request.form</field>
+      <fields name="model">car.request</field>
+      <fields name="arch" type="xml">
+        <form name="Car Request Form">
+
+        </form>
+      </field>
+    </record>
+  </data>
+</odoo>
